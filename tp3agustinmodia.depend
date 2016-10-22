@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1477100579 source:c:\users\pc\desktop\utn\tp3agustinmodia\fun.c
+	"func.h"
+
+1477100571 c:\users\pc\desktop\utn\tp3agustinmodia\func.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+
+1477100586 source:c:\users\pc\desktop\utn\tp3agustinmodia\main.c
+	"func.h"
+
